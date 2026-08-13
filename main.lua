@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://onyxscripts.xyz"))()/
+loadstring(game:HttpGet("https://onyxscripts.xyz"))()
